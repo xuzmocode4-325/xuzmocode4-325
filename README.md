@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xuzmocode4-325
 - 👀 I’m interested in art, design and philosophy. 
-- 🌱 I’m currently learning JavaScript for MERN stack.
+- 🌱 I’m currently learning HTML, CSS and JavaScript. 
 - 💞️ I’m looking to collaborate on web-based social gaming applications.
 - 📫 How to reach me... my Twitter handle is @xuzmonomi.
 
