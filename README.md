@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @xuzmocode4-325
-- 👀 I’m interested in art, design and philosophy. 
-- 🌱 I’m currently learning HTML, CSS and JavaScript. 
-- 💞️ I’m looking to collaborate on web-based social gaming applications.
+- 👀 I’m interested in art, design and philosophy and sustainability. 
+- 🌱 I use my spare time to learn HTML, CSS and JavaScript for fullstack web development. 
+- ✨ I'm currently an intern data scientist studying Python and SQL for machine learning at Explore AI Academy 
+- 💞️ I’m looking to collaborate on full-stack data applications for web and mobile. 
 - 📫 How to reach me... my Twitter handle is @xuzmonomi.
 
 <!---
