@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xuzmocode4-325
 - 👀 I’m interested in art, design, philosophy and sustainability. 
-- 🌱 I aspire to master full-stack app development and data engineering. 
-- ✨ I'm currently an intern data scientist studying at Explore AI academy, building a chatbot prototype for BCX. 
+- 🌱 I aspire to create a AI driven SAAS application based on one or more of my interests. 
+- ✨ I'm currently learning MERN Stack and Pytorch. 
 - 💞️ I’m looking for opportunities to develop my own or contribute to existing open-source projects. 
 - 📫 How to reach me... my Twitter handle is @xuzmonomi.
 
