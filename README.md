@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @xuzmocode4-325
-- 👀 I’m interested in art, design, philosophy, and sustainability. 
-- 🌱 I aspire to become an expert full-stack developer and data scientist. 
-- ✨ I'm upskilling in the MERN Stack and Python libraries for deep and machine learning. 
-- 💞️ I’m looking for opportunities to develop my own or contribute to existing open-source projects. 
+- 👀 I’m a Full-Stack Developer and Data Scientist. 
+- 💞️ I love building projects using Django, Tailwind CSS, Pytorch and p5.js
 - 📫 How to reach me... my Twitter handle is @xuzmonomi.
 
 <!---
