@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xuzmocode4-325
 - 👀 I’m a Full-Stack Developer and Data Scientist. 
-- 💞️ I love building projects using Django, Tailwind CSS, Pytorch and p5.js
+- 💞️ I enjoy projects using Django, Tailwind CSS, Pytorch and p5.js
 - 📫 How to reach me... my Twitter handle is @xuzmonomi.
 
 <!---
