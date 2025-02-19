@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xuzmocode4-325
-- 👀 I’m a Web Developer and Data Scientist. 
-- 💞️ I enjoy building projects using Django, Tailwind CSS, Pytorch and p5.js
+- 👀 I’m an Entrepreneur & Aspiring Machine Learning Engineer. 
+- 💞️ I enjoy building projects using Django (Rest Framework), CSS (Mostly Tailwind), PyTorch, and the p5.js library for creative coding. 
 - 📫 I consult businesses via www.xuzmonomi.com
 
 <!---
