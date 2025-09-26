@@ -5,7 +5,7 @@
   - Django   (Backend & APIs),
   - PyTorch  (ML / AI),
   - p5.js    (Generative Art). 
-- 📫 I consult businesses via www.xuzmonomi.com
+- 📫 Hire me: www.xuzmonomi.com
 
 <!---
 xuzmocode4-325/xuzmocode4-325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
