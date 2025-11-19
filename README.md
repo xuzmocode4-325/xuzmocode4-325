@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @xuzmocode4-325
-- 👀 I'm a freelance Full Stack ML / AI Engineer
-- 🛠️ I build projects using:
+- 👀 I'm a Full Stack ML / AI Engineer
+- My favorite languages are JavaScript, TypeScript & Python. 
+- 🛠️ My favorite frameworks are:
   - Vue.js   (Frontend),
   - Django   (Backend & APIs),
   - PyTorch  (ML / AI),
-  - p5.js    (Generative Art). 
+  - p5.js    (Generative Art).
+- I'm a freelancer.
 - 📫 Hire me: www.xuzmonomi.com
 
 <!---
